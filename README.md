@@ -8,6 +8,4 @@ This repository contains the public [CocoaPods](https://github.com/CocoaPods/Coc
 ## Podspec
 Update the podspec with the 'pod repo push' command.
 
-'''sh
 pod lib lint TerraSpectrumPod.podspec --allow-warnings
-'''
